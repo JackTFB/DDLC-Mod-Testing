@@ -1,0 +1,5 @@
+label story:
+
+    "Test"
+
+    return
